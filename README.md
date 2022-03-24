@@ -1,1 +1,1 @@
-https://polvor.github.io/rsschool-cv/cv
+https://polvor.github.io/rsschool-cv/
