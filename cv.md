@@ -2,7 +2,7 @@
 
 **Phone:** +375 (33) 605-44-62  
 **E-mail:** Samovich-Voronina@yandex.by  
-**Telegtam:** @polina_avi  
+**Telegram:** @polina_avi  
 
 
 ---
@@ -30,7 +30,8 @@ I have an analytical mindset, perseverance and purposefulness that will help me 
 
 Sum of Triangular Numbers from CODEWARS: *Return the sum of Triangular Numbers up-to-and-including the nth Triangular Number.*
 
-```function sumTriangularNumbers(n) {
+```
+function sumTriangularNumbers(n) {
   if (n < 0) {
     return 0 
   }
